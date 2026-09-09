@@ -1,6 +1,8 @@
-# Welcome to your Expo app 👋
+# Urbanize
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Aplicativo mobile desenvolvido em React Native para registrar e visualizar problemas urbanos.
+
+O usuário pode registrar ocorrências com fotos e categorias, permitindo identificar as regiões com maior concentração de problemas através de uma visualização por cores.
 
 ## Get started
 
@@ -16,41 +18,40 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+In the output, you'll find options to open the app in:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+* Android emulator
+* iOS simulator
+* Expo Go
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Technologies
 
-## Get a fresh project
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="35" />
+</p>
 
-When you're ready, run:
+* React Native
+* JavaScript
+* Supabase
+* Expo
 
-```bash
-npm run reset-project
-```
+## Features
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+* Registro de problemas urbanos
+* Upload de fotos
+* Classificação por categorias
+* Visualização da concentração de problemas por região
+* Mapa de ocorrências
 
-### Other setup steps
+## Team
 
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+* Nome do integrante
+* Nome do integrante
+* Nome do integrante
+* Nome do integrante
 
-## Learn more
+## Hackathon
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Projeto desenvolvido para o Hackathon com foco em tecnologia e soluções para cidades mais sustentáveis e conectadas.
