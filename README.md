@@ -4,6 +4,14 @@ Aplicativo mobile desenvolvido em React Native para registrar e visualizar probl
 
 O usuário pode registrar ocorrências com fotos e categorias, permitindo identificar as regiões com maior concentração de problemas através de uma visualização por cores.
 
+## Preview
+
+<!-- Adicione aqui um GIF ou vídeo demonstrando o aplicativo -->
+
+<p align="center">
+  <img src="./assets/preview.gif" width="300" />
+</p>
+
 ## Get started
 
 1. Install dependencies
@@ -51,7 +59,3 @@ In the output, you'll find options to open the app in:
 * Nome do integrante
 * Nome do integrante
 * Nome do integrante
-
-## Hackathon
-
-Projeto desenvolvido para o Hackathon com foco em tecnologia e soluções para cidades mais sustentáveis e conectadas.
